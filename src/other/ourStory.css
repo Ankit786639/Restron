@@ -1,0 +1,27 @@
+.bgimage{
+    background-image: url('https://res.cloudinary.com/pictureelement/image/upload/q_auto,f_auto,c_scale,w_2560/v1535898673/website-template-3/cover-wooden-texture.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.history{
+    background-image: url('../image/fast_food-02.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.his_dis{
+        background: black;
+        border-radius: 15px;
+        color: rgb(179, 99, 25);
+        opacity: .95;
+}
+
+.restron{
+    background: black;
+    border-radius: 10px;
+    color: rgb(179, 99, 25);
+    height: 7rem;
+    width: 20rem;
+    opacity: .85;
+}

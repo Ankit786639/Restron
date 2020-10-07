@@ -1,0 +1,88 @@
+.bgr{
+    background-image: url('../image/fast_food-02.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.foodMenu{
+    background: black;
+    border-radius: 15px;
+    color: rgb(179, 99, 25);
+    opacity: .95;
+}
+
+.Dropdown{
+    width: 400px;
+    font-size: 25px;
+    border: none;
+    outline:none;
+}
+
+select{
+    border-radius: 5px !important;
+}
+
+.food-img{
+    border-radius: 10px;
+    height:175px;
+    width:175px;
+}
+.item{
+    display: inline-flex;
+    width: 535px;
+    height: 250px;
+    margin-bottom: 7px !important;
+    margin-left: 15px !important;
+}
+
+.qty{
+    border: 1px solid rgb(179, 99, 25);
+    border-radius: 5px;
+    outline: none;
+    background: transparent;
+    width: 100px;
+}
+.Add_to_cart{
+    /* margin-top: 100px; */
+    background-color: black;
+    color: rgb(179,99,55);
+    border-color: rgb(179,99,55);
+    border-radius: 10px;
+}
+
+.Add_to_cart:hover{
+    background: none;
+    border-color:rgb(179,99,55);
+    color: rgb(179,99,55);
+    box-shadow: 0 5px 15px rgb(179, 99, 25);
+}
+
+.addToCartDiv{
+    width:140px;
+}
+
+.Add_to_cart:focus{
+    outline: none;
+    background: none;
+    color: rgb(179,99,55);
+    border-color: rgb(179,99,55);
+}
+
+.Border{
+    border: 2px solid;
+}
+
+
+
+.zoom {
+    transition: transform .6s;
+    margin: 0 auto;
+  }
+  
+  .zoom:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.05); 
+  }

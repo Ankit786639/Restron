@@ -1,0 +1,64 @@
+*{
+    margin: 0;    padding: 0;
+}
+.banner{
+    margin-top: 10px;
+    width: 100%;
+    height: 90vh;
+    overflow: hidden;
+    border: none;
+    background-image: url('../image/meal.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+}
+.btns{
+    width: 55%;
+    margin-left: 250px;
+    background: black;
+    border-radius: 10px;
+    opacity: .9;
+}
+.btns Button{
+    position: relative;
+    background: black;
+    border: 0.4px solid rgb(179, 99, 25);
+    outline: none;
+    color: rgb(179, 99, 25);
+    z-index: 1;
+}
+.btns Button:focus{
+    background: black;
+    outline: none;
+}
+.btns Button:hover{
+    text-decoration: none;
+    background: rgb(179, 99, 25); 
+    color: black;
+    box-shadow: 0 5px 15px rgb(179, 99, 25);
+    border-color: rgb(179, 99, 25);
+}
+.orderFood{
+    text-decoration: none !important;
+}
+.orderFood:focus{
+    color: rgb(179, 99, 25);
+}
+
+.logo_div{
+    width: 275px;
+    height: 275px;
+    background-color: black;
+    margin-top:6rem;   
+    border-radius: 15px;   
+    opacity: .85;
+}
+
+.pogo{
+    height: 200px;
+}
+.search_form{
+    display: flex;
+    justify-content: center;
+}

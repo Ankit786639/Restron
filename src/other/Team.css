@@ -1,0 +1,30 @@
+.bgc{
+   background-image: url('../image/fast_food-02.jpg');
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   background-attachment: fixed;
+   height: 100vh;
+   position: relative;
+   /* padding-top: 6rem; */
+}
+.team{
+    border-radius: 10px;
+    font-size: 50px;
+    background: #000;
+    color: rgb(179, 99, 25);
+    opacity: 0.95;
+}
+.img_style{
+    width:250px;
+    border:2px solid rgb(179, 99, 5);
+    height:250px;
+    border-radius:50%;
+}   
+.card_text{
+    font-size: 25px;
+    letter-spacing: 3px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(179, 99, 25);
+    text-shadow:1px 1px darkolivegreen;
+}

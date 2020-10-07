@@ -1,0 +1,217 @@
+[
+    {   
+        "category":"FOODS",
+        "imageName": "../image/dal.jpg",
+        "itemCode":"Dal-001",
+        "itemName":"Dal", 
+        "price":"95", 
+        "restaurant":"Raja Dhaba",
+        "quantity":1
+    },
+    {
+        "category":"FOODS",
+        "imageName":"Chapati",
+        "itemCode":"Chapati-001",
+        "itemName":"Chapati",
+        "price":"10", 
+        "restaurant":"Raja Dhaba",
+        "quantity":1
+    },
+    {
+        "category":"FOODS",
+        "imageName":"Rice",
+        "itemCode":"Rice-001",
+        "itemName":"Rice",
+         "price":"100", 
+         "restaurant":"Raja Dhaba",
+         "quantity":1
+    },
+    {
+        "category":"FOODS",
+        "imageName":"Palak Paneer",
+        "itemCode":"Palak Paneer-001",
+        "itemName":"Palak Paneer",
+        "price":"55",
+        "restaurant":"Raja Dhaba",
+        "quantity":1
+    },
+    {
+        "category":"FOODS",
+        "imageName":"Raita",
+        "itemCode":"Raita-001",
+        "itemName":"Raita",
+        "price":"30", 
+        "restaurant":"Raja Dhaba",
+        "quantity":1
+    },
+    {
+        "category":"FOODS",
+        "imageName":"Dal",
+        "itemCode":"Dal-002",
+        "itemName":"Dal",
+        "price":"110", 
+        "restaurant":"Bikano Restaurant",
+        "quantity":1
+    },
+    {
+        "category":"FOODS",
+        "imageName":"Chapati",
+        "itemCode":"Chapati-002",
+        "itemName":"Chapati",
+        "price":"7",
+        "restaurant":"Bikano Restaurant",
+        "quantity":1
+    },
+    {
+        "category":"FOODS",
+        "imageName":"Rice",
+        "itemCode":"Rice-002",
+        "itemName":"Rice",
+        "price":"50", 
+        "restaurant":"Bikano Restaurant",
+        "quantity":1
+    },
+    {
+        "category":"FOODS",
+        "imageName":"Palak Paneer",
+        "itemCode":"Palak Paneer-002",
+        "itemName":"Palak Paneer",
+        "price":"60",
+        "restaurant":"Bikano Restaurant",
+        "quantity":1
+    },
+    {
+        "category":"FOODS",
+        "imageName":"Raita",
+        "itemCode":"Raita-002",
+        "itemName":"Raita", 
+        "price":"40",
+        "restaurant":"Bikano Restaurant",
+        "quantity":1
+    },
+
+
+
+
+
+    {
+        "category":"DESSERTS",
+        "imageName":"Ice Cream",
+        "itemCode":"Ice Cream-001",
+        "itemName":"Ice Cream", 
+        "price":"45",
+        "restaurant":"Raja Dhaba",
+        "quantity":1
+    },
+    {
+        "category":"DESSERTS",
+        "imageName":"Cakes",
+        "itemCode":"Cakes-001",
+        "itemName":"Cakes", 
+        "price":"300",
+        "restaurant":"Raja Dhaba",
+        "quantity":1
+    },
+    {
+        "category":"DESSERTS",
+        "imageName":"Gulab Jamun",
+        "itemCode":"Gulab Jamun-001",
+        "itemName":"Gulab Jamun", 
+        "price":"10",
+        "restaurant":"Raja Dhaba",
+        "quantity":1
+    },
+    {
+        "category":"DESSERTS",
+        "imageName":"Kaju Katli",
+        "itemCode":"Kaju Katli-001",
+        "itemName":"Kaju Katli", 
+        "price":"750",
+        "restaurant":"Bikano Restaurant",
+        "quantity":1
+    },
+    {
+        "category":"DESSERTS",
+        "imageName":"Sone papdi",
+        "itemCode":"Sone papdi-001",
+        "itemName":"Sone papdi", 
+        "price":"350",
+        "restaurant":"Bikano Restaurant",
+        "quantity":1
+    },
+    {
+        "category":"DESSERTS",
+        "imageName":"Gulab Jaamun",
+        "itemCode":"Gulab Jaamun-001",
+        "itemName":"Gulab Jaamun", 
+        "price":"12",
+        "restaurant":"Bikano Restaurant",
+        "quantity":1
+    },
+
+
+
+    {
+        "category":"DRINKS",
+        "imageName":"Mango Juice",
+        "itemCode":"Mango Juice-001",
+        "itemName":"Mango Juice", 
+        "price":"20",
+        "restaurant":"Raja Dhaba",
+        "quantity":1
+    },
+    {
+        "category":"DRINKS",
+        "imageName":"Mango Shake",
+        "itemCode":"Mango Shake-001",
+        "itemName":"Mango Shake", 
+        "price":"30",
+        "restaurant":"Bikano Restaurant",
+        "quantity":1
+    },
+    {
+        "category":"DRINKS",
+        "imageName":"Red Bull",
+        "itemCode":"Red Bull-001",
+        "itemName":"Red Bull", 
+        "price":"120",
+        "restaurant":"Raja Dhaba",
+        "quantity":1
+    },
+    {
+        "category":"DRINKS",
+        "imageName":"Lassi",
+        "itemCode":"Lassi-001",
+        "itemName":"Lassi", 
+        "price":"25",
+        "restaurant":"Bikano Restaurant",
+        "quantity":1
+    },
+    {
+        "category":"DRINKS",
+        "imageName":"Cold drinks",
+        "itemCode":"Cold drinks-001",
+        "itemName":"Cold drinks", 
+        "price":"40",
+        "restaurant":"Raja Dhaba",
+        "quantity":1
+    },
+    {
+        "category":"DRINKS",
+        "imageName":"Cocktail",
+        "itemCode":"Cocktail-001",
+        "itemName":"Cocktail", 
+        "price":"210",
+        "restaurant":"Bikano Restaurant",
+        "quantity":1
+    },
+    {
+        "category":"DRINKS",
+        "imageName":"Whisky",
+        "itemCode":"Whisky-001",
+        "itemName":"Whisky", 
+        "price":"500",
+        "restaurant":"Raja Dhaba",
+        "quantity":1
+    }
+]

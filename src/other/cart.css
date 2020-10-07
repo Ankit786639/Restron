@@ -1,0 +1,51 @@
+.addToCartImg{
+    width: 150px;
+}
+.quantity{
+    width: 50px;
+    border: 1px solid rgb(179,99,55);
+    outline: none;
+    background: none;
+    border-radius: 5px;
+}
+.bg{
+    background-image: url('../image/fast_food-02.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.cart-img{
+    border-radius: 10px;
+    height:150px;
+    width:150px;
+}
+
+#buttonDiv button{
+    width: 100px;
+    background-color: black;
+    outline: none !important;
+    color: rgb(179,99,55);
+    border-color: rgb(179,99,55);
+    border-radius: 10px;
+}
+
+#buttonDiv button:hover{
+    box-shadow: 0 5px 15px rgb(179,99,55);
+}
+
+#buttonDiv{
+    font-weight: normal !important;
+}
+
+.checkout{
+    width: 100px;
+    background-color: black;
+    outline: none !important;
+    color: rgb(179,99,55);
+    border-color: rgb(179,99,55);
+    border-radius: 10px;
+}
+.checkout:hover{
+    box-shadow: 0 5px 15px rgb(179,99,55);
+}

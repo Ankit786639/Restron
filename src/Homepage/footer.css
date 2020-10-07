@@ -1,0 +1,31 @@
+.bgcolor{
+    background: black;
+    color: rgb(179, 99, 25);
+}
+#formEmail{
+  background: rgb(179, 99, 25);
+  color: black;
+  border:none;
+}
+.logo{  
+  height: 100px ;
+}
+
+#formEmail::placeholder{
+  color: black;
+}
+.form_button{
+  color: rgb(179, 99, 25);
+  border-color: rgb(179, 99, 25);
+}
+.form_button:hover{
+  background: rgb(179, 99, 25);
+  color: black;
+  border-color:black ;
+}
+.blc{ 
+  border-left: 2px solid rgb(179, 99, 25);
+}
+.brc{
+  border-right: 2px solid rgb(179, 99, 25);
+}

@@ -1,0 +1,46 @@
+.backgr{
+    background: black;
+}
+.logo{
+    font-size: 35px;
+}
+.icon{
+    float: right;
+}
+.tog{
+    border:none;
+    outline: none !important;
+    border-radius:5px;
+    background-color: rgb(179, 99, 25);
+}
+.navbar-nav .nav-item .nav-link{
+    font-size: 18px;
+}
+.navbar-nav .nav-item{
+    font-size: 15px;
+}
+.header_button{
+    background: black;
+    border: 2px solid;
+    padding: 5px;
+    border-radius: 5px;
+    opacity: .85;
+    outline: none !important;
+}
+.header_button_orderFood{
+    background: black;
+    border: none;
+    border-radius: 5px;
+    opacity: .85;
+    outline: none !important;
+}
+
+.header_button:hover{
+    color: rgb(179, 99, 25);
+    box-shadow: 0 5px 15px rgb(179, 99, 25);
+}
+.navbar-brand.animated {
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+  }
+  

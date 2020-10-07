@@ -1,0 +1,35 @@
+.bg{
+    background-image: url('../image/fast_food-02.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.dessert{
+    border-left: 1px dashed;
+    border-right: 1px dashed;
+}
+.foodMenu{
+    background: black;
+    border-radius: 15px;
+    color: rgb(179, 99, 25);
+    opacity: .95;
+}
+.viewButton{
+    color: rgb(179, 99, 25);
+}
+.viewButton:hover{
+    color: rgb(179, 99, 25);
+    box-shadow: 0 5px 15px rgb(179, 99, 25);
+}
+.bor{
+    align-items: center;
+    justify-content: center ;
+    color: rgb(179, 99, 25);
+}
+.der{
+    height:600px;
+    background: black;
+    border-radius: 15px;
+    color: rgb(179, 99, 25);
+    opacity: .95;
+}

@@ -1,0 +1,13 @@
+.banner2{
+    background-image: url('../image/image1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 80vh;
+}
+.caption{
+    margin-top: 10rem;
+    margin-right: 10rem;
+    color: rgb(175,99,25);
+}

@@ -1,0 +1,88 @@
+.contactBg{
+    color: rgb(179, 99, 25);
+    
+}
+.contact-social {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    line-height: 43px;
+  }
+  
+  .contact-social i {
+    font-size: 20px;
+    color: rgba(255, 255, 255, 1);
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .contact-social i:hover {
+    transform: scale(1.1) rotate(360deg);
+  }
+  .contact-directions {
+    text-align: center;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    max-width: 50em;
+  }
+  
+  .contact-directions > dl > dt:nth-child(3) {
+    margin-top: 2.8rem;
+  }
+  
+  .contact-horizontal-rule {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
+  .contact-information-wrapper {
+    overflow: hidden;
+    position: relative;
+    background-color: #001F40;
+  }
+  
+  .contact-information-wrapper-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    object-fit: cover;
+    height: 100%;
+  }
+  
+  .contact-information {
+    position: relative;
+    z-index: 1;
+    color: #fff;
+    max-width: 50em;
+    margin-top: 0;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+  }
+  
+  .contact-form ::placeholder {
+    color: rgba(255, 255, 255, .7) !important;
+  }
+  
+  .contact-form label {
+    color: #fff;
+  }
+  
+  .contact-form input, .contact-form textarea {
+    background: none !important;
+    border: 3px solid #fff !important;
+    color: rgba(255, 255, 255, 1);
+  }
+  
+  .contact-form input:focus, .contact-form textarea:focus {
+    color: rgba(255, 255, 255, 1);
+  }
+  
+  .contact-details {
+    border: none;
+    margin-top: 2.8rem;
+  }
+  
+  .contact-details h6 {
+    font-weight: 700;
+  }
+  
